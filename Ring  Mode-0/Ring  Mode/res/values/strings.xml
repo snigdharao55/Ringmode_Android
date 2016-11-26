@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="hello">Hello World, Mainactivity!</string>
+    <string name="s1">Screen One:</string>
+    <string name="s3i">Instructions :</string>
+    <string name="s3id">  Based on the codes you have saved only you are able to change your phone mode by sending that particular code as message to your phone,while give the codes please check the spaces in edittext boxes.</string>
+<string name="howtotext1">           In this screen you will find three text boxes.In this code for different modes like ring,silent and vibrate will be displayed.If u want to change this code,u can define your own codes for these modes. </string>
+
+    <string name="app_name">RingMode </string>
+
+    <string-array name="wordss">
+
+        <item>CLEVER/LEARNED-FOOL/STUPID</item>
+
+                <item>EASY TO UNDERSTAND-DIFFICULT/MYSTERIOUS</item>
+
+                        <item>CONFUSE-SURPRISE/AMAZE</item>
+
+                                <item>TALKING TOO MUCH/INDIRECT SPEECH-TALKING LESS/BRIEF</item>
+                                <item>  PRAISE-CRITICIZE/SCOLD</item>
+                                <item>HASTE/HURRY-SLOW</item>
+                                <item>DENY/GIVE UP-CANCEL/WITHDRAW</item>
+                                <item>CLEAN-UNCLEAN/DISORGANIZED</item>
+                                <item>ACTIVE/ATTENTIVE-INACTIVE</item>
+                                <item>TIRED/WEAKEN-PREVENT/CONTROL</item>
+                                <item>PLENTY/EXCESS-SHORTAGE</item>
+                                <item>RICH-POOR</item>
+                                <item>WASTEFUL-CAREFUL/STINGY</item>
+                                <item>BIG-SMALL</item>
+                                <item>LESSEN/DECREASE-INCREASE</item>
+                                <item>MAKE WORSE/IRRITATE-MAKE BETTER/IMPROVE</item>
+                                <item>MAIN POINT/PEAK-LOWEST POINT</item>
+                                <item>QUARRELSOME/ILL TEMPERED-PEACEFUL</item>
+                                <item>DISOBEDIENT/STUBBORN-OBIDIENT/UNDERSTANDING</item>
+                                <item>OVER WEIGHT-THIN</item>
+                                <item>BRAVE/DETERMINED-AFRAID</item>
+                                <item>DESIRE-DISLIKE</item>
+
+  
+
+    
+
+    </string-array>
+    <color name="t">#95dd69</color>
+
+</resources>
+
